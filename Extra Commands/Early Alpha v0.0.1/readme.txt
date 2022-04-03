@@ -1,0 +1,1 @@
+Hello, this is extra commands alapha public release v0.0.1. How to install this is simple, first run installer.bat this will tell you everything you need to know install Extra Commands! If you find any bugs or if you have any suggestions please go to my github.

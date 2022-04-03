@@ -1,0 +1,7 @@
+I see you're curious, and wonder what this is folder is for.
+This folder is for test commands and older versions of commands.
+There will not be ALL older commands because some may have issues/bugs.
+If you wan't to help with the contribution to me and help find bugs go to [github of extra commands]
+
+
+and just incase the commands get broken. probably ls copy this into the top folder.

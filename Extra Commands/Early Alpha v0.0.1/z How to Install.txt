@@ -1,0 +1,3 @@
+Manual Install copy the x file into the C: Drive, this is the safer option as if there was important file in C:\x before they may be lost.
+
+Auto/Easy Install Run the installer.bat file be in mind that if the is files in C\x they may be lost!
