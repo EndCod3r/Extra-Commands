@@ -17,6 +17,6 @@ Extra Commands
   </a>
 </div>
 
-**How to Download:** Click the "[Download](https://github.com/Endlord15/Extra-Commands/raw/main/Extra%20Commands.zip)" 
+**How to Download the pre-release:** Click the "[Releases](https://github.com/Endlord15/Extra-Commands/releases/tag/v.0.0.1-alpha1)" on the right side bar and you'll find all the releases.
 
 Once you have download it follow the instructions in z How to install.txt
