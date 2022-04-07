@@ -1,7 +1,6 @@
 <h1 align="center">
-<img src="/assets/icon.png" alt="Icon" width="100" height="100" </img>
 <br>
-Extra Commands
+Extra Commands for Command Prompt
 <br>
 </h1>
 
